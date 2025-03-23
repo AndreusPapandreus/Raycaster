@@ -1,0 +1,16 @@
+.DS_Store
+app
+server
+.clangd
+/build/
+/bin/
+/obj/
+/out/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.exe
+*.out
